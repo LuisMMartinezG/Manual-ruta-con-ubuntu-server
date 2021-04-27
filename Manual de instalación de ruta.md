@@ -459,6 +459,12 @@ cd  /home/ruta/Documents/docker/
 sudo docker-compose -f docker-compose.yml build
 sudo docker-compose -f docker-compose.yml up -d
 ```
+
+Reiniciar el equipo con comando:
+```sh
+reboot
+```
+
 ## Ubuntu Server vs Xubuntu
 |Ejecución|Proceso|Ubuntu Server (seg)|Xubuntu (seg)|Ubuntu Server|Xubuntu|
 |-|-|-|-|-|-|
