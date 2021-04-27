@@ -53,15 +53,15 @@ Una vez instalado el sistema operativo correctamente, procedemos a instalar sus 
 - [lightdm](https://es.wikipedia.org/wiki/LightDM)
 - [gnome-terminal](https://es.wikipedia.org/wiki/GNOME_Terminal)
 - [x11-xserver-utils](https://packages.debian.org/es/sid/x11-xserver-utils)
-- [openbox](https://es.wikipedia.org/wiki/Aptitude)
-- [obconf](https://es.wikipedia.org/wiki/Aptitude)
-- [mysql-client](https://es.wikipedia.org/wiki/Aptitude)
-- [psmisc](https://es.wikipedia.org/wiki/Aptitude) 
-- [alsa-utils](https://es.wikipedia.org/wiki/Aptitude)
-- [feh](https://es.wikipedia.org/wiki/Aptitude)
-- [Docker](https://es.wikipedia.org/wiki/Aptitude)
-- [Docker Compose](https://es.wikipedia.org/wiki/Aptitude)
-- [Qt](https://es.wikipedia.org/wiki/Aptitude)
+- [openbox](https://es.wikipedia.org/wiki/Openbox)
+- [obconf](https://ubunlog.com/como-instalar-openbox-en-ubuntu/)
+- [mysql-client](https://es.quora.com/Cu%C3%A1l-es-la-diferencia-entre-un-servidor-MySQL-y-un-cliente-MySQL)
+- [psmisc](http://www.escomposlinux.org/lfs-es/lfs-es-5.0/appendixa/psmisc.html) 
+- [alsa-utils](http://www.escomposlinux.org/lfs-es/blfs-es-1.0/multimedia/alsa-utils.html)
+- [feh](https://wiki.archlinux.org/index.php/Feh_(Espa%C3%B1ol))
+- [Docker](https://es.wikipedia.org/wiki/Docker_(software))
+- [Docker Compose](https://dev.to/ebarrioscode/que-demonios-es-docker-docker-compose-y-como-dockerizar-dotnet-core-webapi-y-sql-server-en-un-ambiente-de-desarrollo-ideal-95a)
+- [Qt](https://es.wikipedia.org/wiki/Qt_(biblioteca))
 ***
 ## Instalación aptitude
 ```sh
@@ -459,7 +459,7 @@ cd  /home/ruta/Documents/docker/
 sudo docker-compose -f docker-compose.yml build
 sudo docker-compose -f docker-compose.yml up -d
 ```
-
+## Ubuntu Server vs Xubuntu
 |Ejecución|Proceso|Ubuntu Server (seg)|Xubuntu (seg)|Ubuntu Server|Xubuntu|
 |-|-|-|-|-|-|
 |*Encendido*|Tiempo en encender|2,40|2,37|  | ✓ | 
