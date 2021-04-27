@@ -9,7 +9,7 @@ Proporcionar un manual que le permita al personal de los departamentos de ingeni
 
 - Instalación del sistema operativo Ubuntu Server 20.04 LTS
 - Instalación de los programas necesarios para su correcto funcionamiento
-- Cración y edición de archivos necesarios
+- Creación y edición de archivos necesarios
 - Instalar librerias necesarias
 - Dar permisos, asignar grupo, usuario y ubicar a los archivos de ruta
 - Generar las imagenes y montar contenedores en Docker-compose 
