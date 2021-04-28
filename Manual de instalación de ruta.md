@@ -176,12 +176,12 @@ sudo chmod +x /usr/local/bin/docker-compose
 - Aprobar las obligaciones
 - Habilitar el envío de estadisticas
 - Crear una carpeta llamada qt en la ruta /home/ruta/Documents/
--- Seleccionar la carpeta creada en la opción "Especificar carpeta"
--- Seleccionar la opción "Custom installation"
+    - Seleccionar la carpeta creada en la opción "Especificar carpeta"
+    - Seleccionar la opción "Custom installation"
 - Seleccionar solo la opción "Archive"
--- Filter
--- Qt
--- Versión 5.9.5
+    - Filter
+    - Qt
+    - Versión 5.9.5
 - Seleccionar la opción de haber leido los terminos y condiciones
 - Instalar
 ***
