@@ -27,18 +27,18 @@ Para hacer la memoria booteable, veremos este [tutorial de cómo hacer una memor
 - Presionar la tecla F11 mientras se enciende
 - Seleccionar la USB booteada
 - Configuraciones:
--- Teclado (elegir idioma español)
--- Conexiones de red (conectarse a la red internet con cable)
--- Proxy (ignorar)
--- Ubuntu archive mirror (ignorar)
--- Guide storage (ignorar)
--- Storage (ignorar y confirmar)
+    - Teclado (elegir idioma español)
+    - Conexiones de red (conectarse a la red internet con cable)
+    - Proxy (ignorar)
+    - Ubuntu archive mirror (ignorar)
+    - Guide storage (ignorar)
+    - Storage (ignorar y confirmar)
 - Configuración perfil:
--- Su nombre: ruta
--- El nombre del servidor: ruta
--- Elije un nombre de usuario: ruta
--- elija una contraseña: ruta123*.*
--- Confirme contraseña: ruta123*.*
+    - Su nombre: ruta
+    - El nombre del servidor: ruta
+    - Elije un nombre de usuario: ruta
+    - Elija una contraseña: ruta123*.*
+    - Confirme contraseña: ruta123*.*
 - Configuración de SSH (ignorar)
 - Futured server snaps (ignorar)
 - Esperar instalación y reiniciar equipo
