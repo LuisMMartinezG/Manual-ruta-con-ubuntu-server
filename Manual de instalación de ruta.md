@@ -105,17 +105,17 @@ sudo aptitude install x11-xserver-utils
 
 ## Instalación mysql-client
 ```sh
-sudo aptitude install x11-xserver-utils
+sudo aptitude install mysql-client
 ```
 
 ## Instalación psmisc
 ```sh
-sudo aptitude install x11-xserver-utils
+sudo aptitude install psmisc
 ```
 
 ## Instalación alsa-utils
 ```sh
-sudo aptitude install x11-xserver-utils
+sudo aptitude install alsa-utils
 ```
 
 ## Instalación feh
