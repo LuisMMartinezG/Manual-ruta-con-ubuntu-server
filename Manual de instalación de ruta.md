@@ -166,7 +166,7 @@ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 - Confirmar descarga
 - Dar permisos de ejecución:
 ```sh
-sudo chmod +x /usr/local/bin/docker-compose
+sudo chmod +x qt-unified-linux-x64-4.1.0-online.run
 ```
 - Iniciar:
 ```sh
