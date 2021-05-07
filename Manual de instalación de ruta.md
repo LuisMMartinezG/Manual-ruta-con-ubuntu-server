@@ -314,17 +314,17 @@ Para este paso es necesario haber descargado todos los archivos necesarios de ru
 ### Archivos libICT_bill
 Dar permisos:
 ```sh
-sudo chmod +x libICT_bill.s*
+sudo chmod +x libICT_Bill.s*
 ```
 
 Asignar grupo y usuario:
 ```sh
-sudo chown root:root libICT_bill.s*
+sudo chown root:root libICT_Bill.s*
 ```
 
 Ubicar:
 ```sh
-sudo mv libICT_bill.s* /usr/lib/
+sudo mv libICT_Bill.s* /usr/lib/
 ```
 
 ### Carpeta kbitech_ICT
@@ -362,17 +362,17 @@ sudo mv manager configuration genericModals docker-clean /usr/local/bin/
 ### Archivo tty_enable.sh
 Dar permisos:
 ```sh
-sudo chmod +x tty_enable.sh
+sudo chmod +x ttys_enable.sh
 ```
 
 Asignar grupo y usuario:
 ```sh
-sudo chown root:root tty_enable.sh
+sudo chown root:root ttys_enable.sh
 ```
 
 Ubicar:
 ```sh
-sudo mv tty_enable.sh /usr/bin/
+sudo mv ttys_enable.sh /usr/bin/
 ```
 
 ### Archivo billetero.ini
