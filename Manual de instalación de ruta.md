@@ -359,20 +359,20 @@ Ubicar:
 sudo mv manager configuration genericModals docker-clean /usr/local/bin/
 ```
 
-### Archivo tty_enable.sh
+### Archivo ttys-enable.sh
 Dar permisos:
 ```sh
-sudo chmod +x ttys_enable.sh
+sudo chmod +x ttys-enable.sh
 ```
 
 Asignar grupo y usuario:
 ```sh
-sudo chown root:root ttys_enable.sh
+sudo chown root:root ttys-enable.sh
 ```
 
 Ubicar:
 ```sh
-sudo mv ttys_enable.sh /usr/bin/
+sudo mv ttys-enable.sh /usr/bin/
 ```
 
 ### Archivo billetero.ini
